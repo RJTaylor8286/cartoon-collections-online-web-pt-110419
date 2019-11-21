@@ -5,8 +5,7 @@ end
 planeteer_calls = ["earth", "fire", "wind", "water", "heart"]
 summon_captain_planet.map
 end
-
-def long_planeteer_calls# code an argument here
+long_planeteer_calls = ["earth", "fire", "wind", "water", "heart"]
   # Your code here
 end
 
